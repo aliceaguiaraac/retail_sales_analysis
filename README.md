@@ -51,4 +51,4 @@ Detailed product analysis including monthly revenue, order targets, revenue targ
 - Data Visualization
 ## Dashboard Preview
 
-![Retail Sales & Customer Analytics Dashboard](images/retailanalysis.png)
+![Retail Sales & Customer Analytics Dashboard](retailanalysis.png)
