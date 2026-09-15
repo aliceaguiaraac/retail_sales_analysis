@@ -1,10 +1,11 @@
 # Retail Sales & Customer Analytics Dashboard
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiN2IzMGQ5ZTAtYzZhZi00ZTgwLWJiODktYTg2YmIzN2RkYmUwIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Retail Sales & Customer Analytics Dashboard</a></p>
+
 
 Interactive Power BI dashboard developed to analyse retail sales performance, customer behaviour, product performance, revenue trends and cancellations.
 
 The report provides an executive overview of monthly revenue, orders and cancellations, while allowing users to drill into customer-level and product-level performance.
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiN2IzMGQ5ZTAtYzZhZi00ZTgwLWJiODktYTg2YmIzN2RkYmUwIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Retail Sales & Customer Analytics Dashboard</a></p>
 
 ## Key Insights
 
