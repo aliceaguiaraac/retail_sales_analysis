@@ -1,44 +1,46 @@
 # Retail Sales & Customer Analytics Dashboard
 
-
-
 Interactive Power BI dashboard developed to analyse retail sales performance, customer behaviour, product performance, revenue trends and cancellations.
 
-The report provides an executive overview of monthly revenue, orders and cancellations, while allowing users to drill into customer-level and product-level performance.
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiN2IzMGQ5ZTAtYzZhZi00ZTgwLWJiODktYTg2YmIzN2RkYmUwIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Retail Sales & Customer Analytics Dashboard</a></p>
+The report provides an executive overview of monthly revenue, orders and cancellations, while allowing users to drill into customer-level, product-level and country-level performance. It also includes a What-If price adjustment simulation to estimate potential revenue impact and support pricing decisions.
+
+<p data-sourcepos="9:1-9:189" dir="auto">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiN2IzMGQ5ZTAtYzZhZi00ZTgwLWJiODktYTg2YmIzN2RkYmUwIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Retail Sales & Customer Analytics Dashboard</a>
+</p>
 
 ## Key Insights
 
-- Monthly revenue, orders and cancellations versus targets
-- Top products by orders and revenue
-- Customer revenue, order volume and Average Order Value (AOV)
-- Revenue and order trends over time
-- Revenue distribution by country and product
-- Product-level performance and cancellation trends
+- Monthly revenue, orders and cancellations compared against business targets
+- Product-level revenue simulation using What-If price adjustment parameters
+- Top products by order volume and revenue contribution
+- Customer revenue, order volume, revenue share and YoY growth
+- Revenue concentration by country and product
+- Cancellation rate trends over time
 - Geographic sales distribution across markets
 
 ## Dashboard Pages
 
 ### Sales Summary
-Executive overview of revenue, orders, cancellations and top-performing products.
+Executive overview of monthly revenue, orders, cancellations and top-performing products.
 
 ### Customer Detail
-Customer-level analysis including total revenue, order volume, Average Order Value and monthly purchasing behaviour.
+Customer-level analysis including revenue, order volume, revenue share, YoY growth and monthly purchasing behaviour.
 
 ### Revenue Detail
-Geographic and product-level revenue analysis using map, decomposition tree and market segmentation.
+Geographic and product-level revenue contribution analysis using treemap, bar chart, map and decomposition tree.
 
 ### Product Performance
-Detailed product analysis including monthly revenue, order targets, revenue targets, price adjustments and cancellation trends.
+Detailed product analysis including monthly revenue, order targets, revenue targets, What-If price adjustment simulation and cancellation rate trends.
 
 ## Dashboard Features
 
-- KPI tracking against business targets
+- KPI tracking against monthly business targets
+- What-If price adjustment analysis
 - Customer and product drill-down analysis
+- Revenue contribution analysis by country and product
 - Time-series trend analysis
-- Geographic sales analysis
-- Decomposition tree for revenue exploration
-- What-if price adjustment analysis
+- Cancellation rate monitoring
+- Decomposition tree for revenue driver exploration
 - Interactive filtering and navigation
 
 ## Tools
@@ -46,10 +48,12 @@ Detailed product analysis including monthly revenue, order targets, revenue targ
 - Power BI
 - DAX
 - Data Modeling
-- What-if Parameters
+- What-If Parameters
 - Drill-through
 - Decomposition Tree
 - Data Visualization
+- KPI Design
+
 ## Report Preview
 
 ![Retail Sales & Customer Analytics Dashboard](whatifsalesanalysis.png)
