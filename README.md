@@ -16,7 +16,7 @@ The report provides an executive overview of monthly revenue, orders and cancell
 - Customer revenue, order volume, revenue share and YoY growth
 - Revenue concentration by country and product
 - Cancellation rate trends over time
-- Geographic sales distribution across markets
+- Country-level revenue contribution analysis
 
 ## Dashboard Pages
 
@@ -27,7 +27,7 @@ Executive overview of monthly revenue, orders, cancellations and top-performing 
 Customer-level analysis including revenue, order volume, revenue share, YoY growth and monthly purchasing behaviour.
 
 ### Revenue Detail
-Geographic and product-level revenue contribution analysis using treemap, bar chart, map and decomposition tree.
+Country and product-level revenue contribution analysis using treemap, bar chart and decomposition tree.
 
 ### Product Performance
 Detailed product analysis including monthly revenue, order targets, revenue targets, What-If price adjustment simulation and cancellation rate trends.
